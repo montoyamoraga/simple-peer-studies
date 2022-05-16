@@ -6,11 +6,6 @@
 // is running to connect the two peers.
 // See https://github.com/lisajamhoury/simple-peer-server
 
-// Include this for to use p5 autofill in vscode
-// See https://stackoverflow.com/questions/30136319/what-is-reference-path-in-vscode
-/// <reference path="../shared/p5.d/p5.d.ts" />
-/// <reference path="../shared/p5.d/p5.global-mode.d.ts" />
-
 let partnerMousePosition;
 let myMousePosition = {};
 
